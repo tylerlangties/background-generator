@@ -1,2 +1,2 @@
 # background-generator. 
-A quick generator for creating custom gradient backgrounds.
+A basic generator for creating custom gradient backgrounds.
